@@ -1,0 +1,5 @@
+﻿  movelight.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  正在生成代码...
+  movelight.obj : 遇到了 MSIL 模块；对 MSIL 禁用了增量链接；正在执行完全链接
+  OpenGLTest.vcxproj -> F:\学习\大三\计算机图形学\实验\OpenGLTest\Debug\OpenGLTest.exe

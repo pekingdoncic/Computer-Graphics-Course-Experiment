@@ -1,0 +1,3 @@
+﻿  aim.cpp
+F:\学习\计算机图形学\实验\OpenGLTest\aim.cpp(88,1): warning C4326: “main”的返回类型应为“int”而非“void”
+LINK : fatal error LNK1104: 无法打开文件“glut32.lib”
