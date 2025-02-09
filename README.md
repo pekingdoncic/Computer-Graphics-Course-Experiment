@@ -1,0 +1,2 @@
+# Computer-Graphics-Course-Experiment
+这个仓库中存储着北京林业大学计算机图形学课程的实验，其中的选做和必做部分都完成了，实验取得了满分的成绩
